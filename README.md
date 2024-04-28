@@ -2,4 +2,4 @@
 - ❀  I'm learning in USTC
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning GAT
-- 📫 Email me at '1960887129@qq.com'
+- 📫 Email me at 'shanpoyang@mail.ustc.edu.cn'
