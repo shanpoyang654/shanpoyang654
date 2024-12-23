@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shanpoyang654
 - ❀  I'm learning in USTC
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning GAT
+- 🌱 I’m currently interested in LLM & Video Generation
 - 📫 Email me at 'shanpoyang@mail.ustc.edu.cn'
