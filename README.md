@@ -5,7 +5,8 @@
 - 🌱 My research interests lie in **Generative Models (Video Generation, World Models), Multimodal Large Language Models (MLLMs), and Large Language Model (LLM)**.
 - 📝 I regularly publish my research findings at top-tier conferences. Check out my papers [![InstaDrive in ICCV'25](https://shanpoyang654.github.io/InstaDrive/page.html)]([您的Scholar链接]) 
 - 📫 How to reach me: **shanpoyang@mail.ustc.edu.cn**
-- 📄 Know more about my experiences: [My Resume (PDF)]((您的简历PDF链接))
+- 📄 Know more about my experiences: [My Resume (PDF)](([您的简历PDF链接](https://github.com/user-attachments/files/22750924/USTC-ZhuoranYang-2026-6-CS.pdf)))
+[USTC-ZhuoranYang-2026-6-CS.pdf](https://github.com/user-attachments/files/22750924/USTC-ZhuoranYang-2026-6-CS.pdf)
 
 ## 🚀 Projects & Research
 
