@@ -20,19 +20,19 @@
 
 ## 💼 Internship Experience
 
-**<img src="https://img.icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google.png" width="16"/> KuaiShou (Kstar Talent Program)** | *2025.03 - Present*
+**<img src="https://img.icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google.png" width="16"/> KuaiShou (Kstar Talent Program)** | *2025 - Present*
 - **Role:** MLLM Base Model Intern
 - Enhanced the Kwai Keye-VL project, focusing on efficient video understanding and unified image understanding/generation.
 
-**<img src="https://img.icons.iconarchive.com/icons/sicons/basic-round-social/32/facebook-icon.png" width="16"/> Meituan** | *2024.09 - 2024.12*
+**<img src="https://img.icons.iconarchive.com/icons/sicons/basic-round-social/32/facebook-icon.png" width="16"/> Meituan** | *2025*
 - **Role:** LLM Base Model Intern
 - Improved 70B LLM's reasoning capability via a two-stage post-training (SFT + RLHF), achieving a 10% absolute improvement on the MATH-OAI benchmark.
 
-**<img src="https://img.icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google.png" width="16"/> SenseTime** | *2024.04 - 2024.08*
+**<img src="https://img.icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google.png" width="16"/> SenseTime** | *2024*
 - **Role:** World Model Video Generation Intern
 - Researched and improved temporal consistency in driving scene video generation, leading to a first-author ICCV 2025 paper.
 
-**<img src="https://img.icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google.png" width="16"/> Microsoft Research Asia** | *2021.05 - 2021.08*
+**<img src="https://img.icons.iconarchive.com/icons/marcus-roberto/google-play/32/Google.png" width="16"/> Microsoft Research Asia** | *2021*
 - **Role:** Algorithm R&D Intern
 - Researched deep learning-based video thumbnail generation and optimized inference speed using TensorRT.
 
