@@ -18,7 +18,7 @@
 
 ## 💼 Internship Experience
 
-** KuaiShou (Kstar Talent Program)** | *2025 - Present*
+**KuaiShou (Kstar Talent Program)** | *2025 - Present*
 - **Role:** MLLM Base Model Intern
 - Enhanced the Kwai Keye-VL project, focusing on efficient video understanding and unified image understanding/generation.
 
