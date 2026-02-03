@@ -5,7 +5,6 @@
 - 🌱 My research interests lie in **Generative Models (Video Generation, World Models), Multimodal Large Language Models (MLLMs), and Large Language Model (LLM)**.
 - 📝 I regularly publish my research findings at top-tier conferences.
 - 📫 How to reach me: **shanpoyang@mail.ustc.edu.cn**
-- 📄 Know more about my experiences: [My Resume (PDF)](([您的简历PDF链接](https://github.com/user-attachments/files/22750924/USTC-ZhuoranYang-2026-6-CS.pdf)))
 [USTC-ZhuoranYang-2026-6-CS.pdf](https://github.com/user-attachments/files/22751490/USTC-ZhuoranYang-2026-6-CS.-.2.pdf)
 
 ## 🚀 Projects & Research
@@ -15,7 +14,6 @@
 | **[InstaDrive: Driving Scene Video Generation](https://shanpoyang654.github.io/InstaDrive/page.html)** | ![ICCV2025](https://img.shields.io/badge/ICCV-2025-blue) | Developed an instance-aware world model for generating realistic and consistent driving videos. Introduced novel **Spatial-Geometric-Aligner** and **3D Instance-Flow-Guider** modules. Achieved SOTA in video quality and perception tasks. | `PyTorch` `OpenSora` `ST-DiT` `ControlNet` |
 | **[ConsisDrive: Long-Scenario Consistent Video Generation](https://shanpoyang654.github.io/ConsisDrive/page.html)** | ![ICLR2026](https://img.shields.io/badge/ICLR-2026-red) | Developed a world model for generating long-scenario consistent videos. Introduced novel **Instance-Masked Attention** and **Instance-Masked Loss** modules. Achieved SOTA in video quality and perception tasks. | `PyTorch` `OpenSora` `ST-DiT` `ControlNet` |
 | **[LLM Jailbreak Defense](https://arxiv.org/abs/2504.01533)** | ![NIPS2025](https://img.shields.io/badge/NIPS-2025-orange) | Explored critical modules for harmful content in LLMs via linear probing and model editing. Proposed effective **defense strategies against jailbreak attacks** using targeted editing and PEFT. | `PyTorch` `Model Editing` `PEFT` |
-| **[Kwai Keye-VL: Unified MLLM](https://kwai-keye.github.io/)** | Project | Contributed to a unified MLLM for understanding & generation. Designed a **Slow-Fast ViT** for 5.8x faster video processing and a decoupled visual encoder for autoregressive image generation. Surpassed strong baselines on VideoMME. | `PyTorch` `Qwen` `SDXL` `NaViT` |
 | **[Multimodal 3D Perception Pre-training](https://arxiv.org/abs/2504.12709)** | Project | Conducted large-scale joint pre-training for 3D perception across datasets using prompt-based domain adaptation and combined contrastive learning with MAE. | `DeepSpeed` `DSVT` `SwinTransformer` `MAE` |
 | **LLM Inference Framework** | Personal Project | Designed and implemented a high-performance inference framework for Llama3, featuring optimized kernels (RMSNorm, SwiGLU, KV Cache) and INT8 quantization. | `C++` `CUDA` `PyTorch` |
 
