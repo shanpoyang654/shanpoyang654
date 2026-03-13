@@ -20,11 +20,11 @@
 ## 💼 Internship Experience
 
 **KuaiShou (Kstar Talent Program)** | *2025 - Present*
-- **Role:** MLLM Base Model Intern
+- **Role:** MLLM Foundamental Model Intern
 - Enhanced the Kwai Keye-VL project, focusing on efficient video understanding and unified image understanding/generation.
 
 **Meituan** | *2025*
-- **Role:** LLM Base Model Intern
+- **Role:** LLM Foundamental Model Intern
 - Improved 70B LLM's reasoning capability via a two-stage post-training (SFT + RLHF), achieving a 10% absolute improvement on the MATH-OAI benchmark.
 
 **SenseTime** | *2024*
