@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zhuoran (卓然) Yang 👋</h1>
+<h1 align="center">Hi, I'm Zhuoran Yang 👋</h1>
 <h3 align="center">Multimodal Video Generation Researcher at Kling AI</h3>
 
 * 💼 I currently work at **Kuaishou Kling AI**, focusing on **multimodal video generation algorithms and foundation models**.
