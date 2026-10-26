@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 Previous Internship Experience
 
-### **Kuaishou — K-Star Talent Program** | *2025*
+### **Kuaishou (K-Star Talent Program)** | *2025*
 
 **Unified Multimodal Understanding and Generation Foundation Model Intern**
 
