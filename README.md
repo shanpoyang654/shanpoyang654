@@ -31,21 +31,21 @@
 
 ### **Kuaishou — Kling AI (K-Star Talent Program)** | *2025*
 
-**Multimodal Foundation Model Intern**
+**Unified Multimodal Understanding and Generation Foundation Model Intern**
 
-- Contributed to the Kwai Keye-VL project, focusing on efficient video understanding and unified image understanding and generation.
-
-### **Meituan** | *2025*
-
-**LLM Foundation Model Intern**
-
-- Improved the reasoning capabilities of a 70B LLM through a two-stage post-training pipeline consisting of SFT and RLHF, achieving a 10% absolute improvement on the MATH-OAI benchmark.
+- Contributed to Kwai Keye-VL && Kelix project, focusing on unified multimodal generation and understanding.
 
 ### **SenseTime** | *2024*
 
 **World Model and Video Generation Intern**
 
 - Researched temporal and instance-level consistency in driving-scene video generation, leading to the first-author ICCV 2025 paper **InstaDrive**.
+
+### **Meituan** | *2024*
+
+**LLM Foundation Model Intern**
+
+- Improved the reasoning capabilities of a 70B LLM through a two-stage post-training pipeline consisting of SFT and RLHF, achieving a 10% absolute improvement on the MATH-OAI benchmark.
 
 ### **Microsoft Research Asia** | *2021*
 
