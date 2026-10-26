@@ -36,7 +36,7 @@
 - Contributed to **Kwai Keye-VL && Kelix**, focusing on unified multimodal generation and understanding.
 - Exploring a unified autoregressive modeling framework for multimodal understanding and generation.
 - Discretized continuous visual representations into high-level semantic multi-tokens aligned with the LLM, enabling autoregressive prediction of both text tokens and image tokens.
-- 
+
 ### **SenseTime** | *2024*
 
 **World Model and Video Generation**
