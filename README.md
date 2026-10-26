@@ -31,19 +31,21 @@
 
 ### **Kuaishou (K-Star Talent Program)** | *2025*
 
-**Unified Multimodal Understanding and Generation Foundation Model Intern**
+**Unified Multimodal Understanding and Generation**
 
-- Contributed to Kwai Keye-VL && Kelix project, focusing on unified multimodal generation and understanding.
-
+- Contributed to **Kwai Keye-VL && Kelix**, focusing on unified multimodal generation and understanding.
+- Exploring a unified autoregressive modeling framework for multimodal understanding and generation.
+- Discretized continuous visual representations into high-level semantic multi-tokens aligned with the LLM, enabling autoregressive prediction of both text tokens and image tokens.
+- 
 ### **SenseTime** | *2024*
 
-**World Model and Video Generation Intern**
+**World Model and Video Generation**
 
 - Researched temporal and instance-level consistency in driving-scene video generation, leading to the first-author ICCV 2025 paper **InstaDrive**.
 
 ### **Meituan** | *2024*
 
-**LLM Foundation Model Intern**
+**LLM Foundation Model**
 
 - Improved the reasoning capabilities of a 70B LLM through a two-stage post-training pipeline consisting of SFT and RLHF, achieving a 10% absolute improvement on the MATH-OAI benchmark.
 
